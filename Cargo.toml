@@ -1,0 +1,11 @@
+[package]
+name = "mkdd-decoder"
+license = "AGPL-3.0"
+description = "Rust crate for decoding Mario Kart: Double Dash!! ghost data passwords"
+keywords = ["decoder", "mario-kart"]
+categories = ["encoding", "parsing"]
+repository = "https://github.com/tpglitch/mkdd-decoder-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
